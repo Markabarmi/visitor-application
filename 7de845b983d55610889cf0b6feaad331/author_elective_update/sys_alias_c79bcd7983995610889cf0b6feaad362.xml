@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_alias">
+    <sys_alias action="DELETE">
+        <configuration_template/>
+        <connection_type>http_connection</connection_type>
+        <id>x_722079_vistor_bo.Visitor</id>
+        <is_internal>false</is_internal>
+        <multiple_connections>false</multiple_connections>
+        <name>Visitor</name>
+        <parent/>
+        <retry_policy display_value="Default HTTP Retry Policy">ef751ff07301330025d71afe2ff6a7f9</retry_policy>
+        <sys_class_name>sys_alias</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-17 19:57:36</sys_created_on>
+        <sys_id>c79bcd7983995610889cf0b6feaad362</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_722079_vistor_bo.Visitor</sys_name>
+        <sys_package display_value="Vistor booking" source="x_722079_vistor_bo">7de845b983d55610889cf0b6feaad331</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Vistor booking">7de845b983d55610889cf0b6feaad331</sys_scope>
+        <sys_update_name>sys_alias_c79bcd7983995610889cf0b6feaad362</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-17 19:57:36</sys_updated_on>
+        <type>connection</type>
+    </sys_alias>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Vistor booking">7de845b983d55610889cf0b6feaad331</application>
+        <file_path/>
+        <instance_id>89421414db1ef1182f082a591396190f</instance_id>
+        <instance_name>dev198579</instance_name>
+        <name>sys_alias_c79bcd7983995610889cf0b6feaad362</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_alias"><sys_alias action="INSERT_OR_UPDATE"><configuration_template/><connection_type>http_connection</connection_type><id>x_722079_vistor_bo.Visitor</id><is_internal>false</is_internal><multiple_connections>false</multiple_connections><name>Visitor</name><parent/><retry_policy display_value="Default HTTP Retry Policy">ef751ff07301330025d71afe2ff6a7f9</retry_policy><sys_class_name>sys_alias</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-10-17 19:57:36</sys_created_on><sys_id>c79bcd7983995610889cf0b6feaad362</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_722079_vistor_bo.Visitor</sys_name><sys_package display_value="Vistor booking" source="x_722079_vistor_bo">7de845b983d55610889cf0b6feaad331</sys_package><sys_policy/><sys_scope display_value="Vistor booking">7de845b983d55610889cf0b6feaad331</sys_scope><sys_update_name>sys_alias_c79bcd7983995610889cf0b6feaad362</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-10-17 19:57:36</sys_updated_on><type>connection</type></sys_alias></record_update>]]></payload>
+        <payload_hash>-81268101</payload_hash>
+        <record_name>x_722079_vistor_bo.Visitor</record_name>
+        <reverted_from/>
+        <source>f1e8c1b583995610889cf0b6feaad37e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-17 19:57:36</sys_created_on>
+        <sys_id>e3bb09f583995610889cf0b6feaad3cf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1929c0e9c590000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-17 19:57:36</sys_updated_on>
+        <type>Connection &amp; Credential Aliases</type>
+        <update_guid>e7bb09f51f9956104176a90fc6d5c9ce</update_guid>
+        <update_guid_history>e7bb09f51f9956104176a90fc6d5c9ce:-81268101</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-04 16:24:11</sys_created_on>
+        <sys_db_object display_value="" name="sys_alias">sys_alias</sys_db_object>
+        <sys_id>26a05714b6f44f139731c53a79761f19</sys_id>
+        <sys_metadata>c79bcd7983995610889cf0b6feaad362</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_722079_vistor_bo.Visitor</sys_name>
+        <sys_package display_value="Vistor booking" source="x_722079_vistor_bo">7de845b983d55610889cf0b6feaad331</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Vistor booking">7de845b983d55610889cf0b6feaad331</sys_scope>
+        <sys_scope_delete display_value="">cea1daf5c01d426e9bd78d6c8da29284</sys_scope_delete>
+        <sys_update_name>sys_alias_c79bcd7983995610889cf0b6feaad362</sys_update_name>
+        <sys_update_version display_value="sys_alias_c79bcd7983995610889cf0b6feaad362">e3bb09f583995610889cf0b6feaad3cf</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-04 16:24:11</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
