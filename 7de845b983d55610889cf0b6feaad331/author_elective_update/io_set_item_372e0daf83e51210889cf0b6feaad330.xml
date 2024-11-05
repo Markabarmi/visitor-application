@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="io_set_item">
+    <io_set_item action="DELETE">
+        <order>100</order>
+        <sc_cat_item display_value="New Visitor Booking">c9bd01af83e51210889cf0b6feaad388</sc_cat_item>
+        <sys_class_name>io_set_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-04 16:53:48</sys_created_on>
+        <sys_id>372e0daf83e51210889cf0b6feaad330</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Visitor Booking.New Visitor Booking</sys_name>
+        <sys_package display_value="Vistor booking" source="x_722079_vistor_bo">7de845b983d55610889cf0b6feaad331</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Vistor booking">7de845b983d55610889cf0b6feaad331</sys_scope>
+        <sys_update_name>io_set_item_372e0daf83e51210889cf0b6feaad330</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-04 16:53:48</sys_updated_on>
+        <variable_set display_value="Visitor Booking">a63e4daf83e51210889cf0b6feaad375</variable_set>
+    </io_set_item>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Vistor booking">7de845b983d55610889cf0b6feaad331</application>
+        <file_path/>
+        <instance_id>89421414db1ef1182f082a591396190f</instance_id>
+        <instance_name>dev198579</instance_name>
+        <name>io_set_item_372e0daf83e51210889cf0b6feaad330</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="io_set_item"><io_set_item action="INSERT_OR_UPDATE"><order>100</order><sc_cat_item display_value="New Visitor Booking">c9bd01af83e51210889cf0b6feaad388</sc_cat_item><sys_class_name>io_set_item</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-11-04 16:53:48</sys_created_on><sys_id>372e0daf83e51210889cf0b6feaad330</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Visitor Booking.New Visitor Booking</sys_name><sys_package display_value="Vistor booking" source="x_722079_vistor_bo">7de845b983d55610889cf0b6feaad331</sys_package><sys_policy/><sys_scope display_value="Vistor booking">7de845b983d55610889cf0b6feaad331</sys_scope><sys_update_name>io_set_item_372e0daf83e51210889cf0b6feaad330</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-11-04 16:53:48</sys_updated_on><variable_set display_value="Visitor Booking">a63e4daf83e51210889cf0b6feaad375</variable_set></io_set_item></record_update>]]></payload>
+        <payload_hash>-1852843087</payload_hash>
+        <record_name>Visitor Booking.New Visitor Booking</record_name>
+        <reverted_from/>
+        <source>a9d90d6783e51210889cf0b6feaad3a9</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-04 16:53:48</sys_created_on>
+        <sys_id>d64e8daf83e51210889cf0b6feaad3a5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>192f818ce4d0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-04 16:53:48</sys_updated_on>
+        <type>Catalog Variable Set</type>
+        <update_guid>da4e8daf7de5121011c5b3da7fb0e1a4</update_guid>
+        <update_guid_history>da4e8daf7de5121011c5b3da7fb0e1a4:-1852843087</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Visitor Booking.New Visitor Booking">4b571a3383e19210889cf0b6feaad3bc</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-05 16:51:32</sys_created_on>
+        <sys_db_object display_value="" name="io_set_item">io_set_item</sys_db_object>
+        <sys_id>58af9a1b631e4e74a9aaecdf106e15e4</sys_id>
+        <sys_metadata>372e0daf83e51210889cf0b6feaad330</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Visitor Booking.New Visitor Booking</sys_name>
+        <sys_package display_value="Vistor booking" source="x_722079_vistor_bo">7de845b983d55610889cf0b6feaad331</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Vistor booking">7de845b983d55610889cf0b6feaad331</sys_scope>
+        <sys_scope_delete display_value="">cea1daf5c01d426e9bd78d6c8da29284</sys_scope_delete>
+        <sys_update_name>io_set_item_372e0daf83e51210889cf0b6feaad330</sys_update_name>
+        <sys_update_version display_value="io_set_item_372e0daf83e51210889cf0b6feaad330">d64e8daf83e51210889cf0b6feaad3a5</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-05 16:51:32</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

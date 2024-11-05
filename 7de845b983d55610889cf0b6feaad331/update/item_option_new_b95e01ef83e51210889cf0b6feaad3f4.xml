@@ -2,7 +2,7 @@
     <item_option_new action="INSERT_OR_UPDATE">
         <active>true</active>
         <attributes/>
-        <cat_item/>
+        <cat_item display_value="New Visitor Booking">c9bd01af83e51210889cf0b6feaad388</cat_item>
         <category/>
         <choice_direction>down</choice_direction>
         <choice_field/>
@@ -21,7 +21,7 @@
         <dynamic_value_field/>
         <enable_also_request_for>false</enable_also_request_for>
         <example_text/>
-        <field/>
+        <field>car_registration</field>
         <global>false</global>
         <help_tag>More information</help_tag>
         <help_text/>
@@ -38,11 +38,11 @@
         <macro/>
         <macroponent/>
         <mandatory>false</mandatory>
-        <map_to_field>false</map_to_field>
+        <map_to_field>true</map_to_field>
         <mask_use_confirmation>false</mask_use_confirmation>
         <mask_use_encryption>false</mask_use_encryption>
         <name>car_registration</name>
-        <order>1000</order>
+        <order>500</order>
         <post_insert_script/>
         <price_if_checked>0</price_if_checked>
         <pricing_implications>false</pricing_implications>
@@ -54,7 +54,7 @@
         <rec_lookup_price/>
         <rec_price_if_checked>0</rec_price_if_checked>
         <record/>
-        <record_producer_table/>
+        <record_producer_table>x_722079_vistor_bo_appointment</record_producer_table>
         <reference/>
         <reference_qual/>
         <reference_qual_condition/>
@@ -77,14 +77,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-11-04 16:54:29</sys_created_on>
         <sys_id>b95e01ef83e51210889cf0b6feaad3f4</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_name>Car Registration</sys_name>
         <sys_package display_value="Vistor booking" source="x_722079_vistor_bo">7de845b983d55610889cf0b6feaad331</sys_package>
         <sys_policy/>
         <sys_scope display_value="Vistor booking">7de845b983d55610889cf0b6feaad331</sys_scope>
         <sys_update_name>item_option_new_b95e01ef83e51210889cf0b6feaad3f4</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-11-04 16:57:16</sys_updated_on>
+        <sys_updated_on>2024-11-05 16:55:59</sys_updated_on>
         <table/>
         <tooltip/>
         <type>6</type>
@@ -94,7 +94,7 @@
         <use_reference_qualifier>simple</use_reference_qualifier>
         <validate_regex/>
         <variable_name/>
-        <variable_set display_value="Visitor Booking">a63e4daf83e51210889cf0b6feaad375</variable_set>
+        <variable_set/>
         <variable_width/>
         <visibility>1</visibility>
         <visible_bundle>true</visible_bundle>
